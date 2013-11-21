@@ -1,0 +1,76 @@
+.main-slider{
+	background-color: #ccc;
+	border: 1px solid #000;
+	width: 650px;
+	height: 300px;
+	overflow:hidden;
+}
+
+
+/* Main Image */
+.main-slider .slider-large-image{
+	float: left;
+	width: 520px;
+	overflow: hidden;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+.main-slider .slider-large-image .large-image{
+	witdh:520px;
+	height: 230px;
+	overflow: hidden;
+}
+
+.main-slider .slider-large-image .info-area{
+	width: 520px;
+	height: 40px;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #414141;
+}
+
+.main-slider .slider-large-image .info-area a{
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.main-slider .slider-large-image .info-area a:hover{
+	color: #CCC;
+	text-decoration: underline;
+}
+
+/* Sidebar */
+.main-slider .slider-sidebar{
+	float: right;
+	width: 110px;
+	overflow: hidden;
+	margin-right: 5px;
+}
+
+.main-slider .slider-sidebar .image1{
+	clear: right;
+	cursor: pointer;
+	margin-top: 5px;
+}
+
+.main-slider .slider-sidebar .image2{
+	clear: right;
+	cursor: pointer;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.main-slider .slider-sidebar .image3{
+	clear: right;
+	cursor: pointer;
+	margin-bottom: 6px;
+}
+
+.main-slider .slider-sidebar .image4{
+	clear: right;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
