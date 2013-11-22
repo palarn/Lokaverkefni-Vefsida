@@ -39,12 +39,14 @@
 
 	</section>
 
+
 	<div class="main-slider">
 		<?php
 			include 'helper/slider.php';
 		?>
 		
 	</div>
+
 
 <div id="main">
 
