@@ -43,22 +43,40 @@
 
 		<?php
 
-		$site_info
+		$site_info = array(
+				array("Title not found","#","helper/68.jpg"),
+				array("Slide 1","#","helper/290.jpg"),
+				array("Slide 2","#","helper/289.jpg"),
+				array("Slide 3","#","helper/288.jpg"),
+				array("Slide 4","#","helper/291.jpg"),
+
+			);
+
+		$slider_default_title = $site_info[0][0];
+		$slider_default_link = $site_info[0][1];
+		$slider_default_image = $site_info[0][2];
 
 		?>
 
 		<div class="slider-large-image">
 			<?php
 
-			?>
-			<div class='large-image' id='slider-image-1'>
+			for($i = 1; $i <= 4; $i++){
+				$slide_title = $site_info[$i][0];
+				$slide_link = $site_info[$i][1];
+				$slide_image = $site_info[$i][2];
 
-				<img src='helper/68.jpg' alt='kitteh!' width='520px' height='230px'>
-			</div>
+				echo "<div class='large-image' id='slider-image-".$i."'>
 
-			<div class='info-area' id='slider-info-1'>
+				<img src='".$slide_image."' alt='kitteh!' width='520px' height='230px'>
+				</div>";
+
+			echo"<div class='info-area' id='slider-info-1'>
 				<a href='http://www.ugla.hi.is'>Uglan</a>
-			</div>
+			</div>";
+			}
+			?>
+			
 
 		</div>
 
