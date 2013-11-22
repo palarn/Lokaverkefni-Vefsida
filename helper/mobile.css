@@ -24,6 +24,10 @@ div.main{
 		display:border-box;
 }
 
+.main-slider{
+	margin: 30px;
+}
+
 nav{
 	display: block;
 	margin-left: auto;
