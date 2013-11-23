@@ -1,11 +1,11 @@
 <?php
 
 		$site_info = array(
-				array("Title not found","#","helper/68.jpg"),
-				array("Kisa 1","#","helper/290.jpg"),
-				array("Kisa 2","#","helper/289.jpg"),
-				array("Kisa 3","#","helper/288.jpg"),
-				array("Kisa 4","#","helper/291.jpg"),
+				array("Title not found","#","myndir/68.jpg"),
+				array("Kisa 1","#","myndir/290.jpg"),
+				array("Kisa 2","#","myndir/289.jpg"),
+				array("Kisa 3","#","myndir/288.jpg"),
+				array("Kisa 4","#","myndir/291.jpg"),
 
 			);
 

@@ -1,50 +1,119 @@
-@media (max-width: 480px){ 
-	body { 
-		background-color:white;
-		font-size:1em;
-		} 
-	img.logo{
-		width:50%;
-		height:50%;
-		display:block;
-		margin-left:auto;
-		margin-right:auto;
-		}
-	nav{
-		width:85%;
+@media (min-width:481px){
+	body{
+		font-size: 0.75em;
 		
 		}
+	
+	img.logo{
+		width: 100%;
+		height: 100%;
+		}
+	
 	#top{
 		font-size: 1.5em;
-		width: 50%;
-	display: inline;
-	text-align:center;
+		display: flex;
+		box-flex:1.0;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		box-sizing: border-box;
+		padding-left: 30px;
+		padding-right:30px;
+		}
+		
+	.lk:not(:first-child){ 
+		border-left: 1px solid; 
+		border-color: #D0D0D0; 
+		padding-left: 0.5em;
+		}
+	.b2{
+		border-right: 1px solid; 
+		border-color: #D0D0D0; 
+		}
+	.b3{
+		padding-left:1em;
+		}
+		
+	#main{
+		box-sizing: border-box;
+		margin-right:30px;
+		margin-left: 30px;
 		}
 	.lin{
-		width: 300px;
+		width: 200px;
 		}
+
 	#altmynd{
-		font-size:2em;
-		}
-	#main{
-		box-sizing:border-box;
-		padding-left:20px;
-		padding-right:20px;
-		}
-	article{
-		width:100%;
-		}
-	h1{
-			font-size: 2em;
-			}
-	h2{
 		font-size:1.5em;
+		box-sizing: border-box;
+		margin-right:30px;
+		margin-left: 30px;
 		}
-	.bottom{
-	border-top:solid;
-	border-width: 1px;
-	padding-left:20px;
-		padding-right:20px;
+	
+	h1{
+		font-size: 1.5em;
+	}
+	h2{
+		font-size:1.125em;
+		}
+		
+	footer{
+		
+		}
+	
+	#I{
+			display: flex;
+			box-flex:1.0;
+			justify-content: space-around;
+			width: 100%;
+			box-sizing:border-box;
+			padding-right:20px;
+	}
+
+	#II{
+			display: flex;
+			box-flex:1.0;
+			justify-content: space-around;
+			width: 100%;
+			box-sizing:border-box;
+			padding-right:20px;
 	}
 	
-}
+	.a1{
+		padding-right:30px;
+		}
+		
+		
+
+	#b1{
+		display: flex;
+		box-flex:1.0;
+		width: 100%;
+		margin-right:30px;
+		margin-left: 30px;
+		}
+		
+	.b2{
+		padding-right:30px;
+		}
+	footer{
+		margin-right:30px;
+		margin-left: 30px;
+		}
+	
+	.bottom{ 
+	background-size: cover;
+	/* fallback */ background-color: #cccccc;  background-repeat: repeat-x; 
+	/* Safari 5.1, Chrome 10+ */ background: -webkit-linear-gradient(top, #eeeeee, #cccccc); 
+	/* Firefox 3.6+ */ background: -moz-linear-gradient(top, #eeeeee, #cccccc); 
+	height:13.625em;
+	
+	}
+	
+	/*undirsíður*/
+
+	.frettamynd{
+	padding-bottom:30px;
+		}
+	
+ }

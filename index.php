@@ -19,7 +19,7 @@
 <section id="top">
 	
 	<section class="logomynd">
-	<img src="helper/logo.png" class="logo" alt="Lógó síðunar">
+	<img src="myndir/logo.png" class="logo" alt="Lógó síðunar">
 	</section>
 	
 	<section class="logotext">
@@ -52,7 +52,7 @@
 
 	<section id="I">
 		<article class="a1">
-			<h1>Lorem Ipsum For 500 Years</h1>
+			<h1><a href="http://localhost/Lokaverkefni-Vefsida/undirsidur/panda.php">Stóra Pöndumálið</a></h1>
 			
 			<p class="art">Etiam et suscipit metus. Phasellus iaculis ante sed felis hendrerit, quis condimentum nisi condimentum. 
 			Cras ante quam, congue ut nisl cursus, auctor egestas ante. In nulla ipsum, rhoncus ut sapien et, hendrerit eleifend ligula. 
