@@ -83,7 +83,6 @@ margin-bottom:30px;
 }
 div.inpic{
 	display:block;
-	
 	background-color:#ffffff;
 	opacity:0.60;
 	position:absolute;
@@ -94,12 +93,14 @@ div.inpic{
 	padding-right: 40px;
 	}
 
-	.a1{
-		margin-bottom:15px;
-		}
-	.art{
-		margin-bottom:25px;
-		}
+.a1{
+	margin-bottom:15px;
+	}
+
+.art{
+	margin-bottom:25px;
+	}
+
 .lin{
 		display: inline;
 		box-sizing:border-box;
@@ -109,7 +110,8 @@ div.inpic{
 		text-align: center;
 		padding:0.5em;
 		text-transform: uppercase;
-}
+	}
+	
 .lin:first-letter{
 	font-size:150%;
 	}

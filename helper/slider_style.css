@@ -1,5 +1,5 @@
 .main-slider{
-	background-color: #ccc;
+	background-color: MediumBlue;
 	border: 1px solid #000;
 	width: 650px;
 	height: 300px;
@@ -28,11 +28,11 @@
 	height: 40px;
 	padding: 10px;
 	overflow: hidden;
-	background-color: #414141;
+	background-color: #fff;
 }
 
 .main-slider .slider-large-image .info-area a{
-	color: #FFF;
+	color: MidnightBlue;
 	text-decoration: none;
 	font-size: 20px;
 }
