@@ -131,7 +131,7 @@
 	</section>
 
 
-	<footer>© Lorem Ipsum & Associates 1500 - 2013</footer>
+	<footer>© Páll, Helga Lóa & Garðar 1977 - 2013</footer>
 </section>
 
 </body>

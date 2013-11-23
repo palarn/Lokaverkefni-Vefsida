@@ -2,10 +2,10 @@
 
 		$site_info = array(
 				array("Title not found","#","helper/68.jpg"),
-				array("Slide 1","#","helper/290.jpg"),
-				array("Slide 2","#","helper/289.jpg"),
-				array("Slide 3","#","helper/288.jpg"),
-				array("Slide 4","#","helper/291.jpg"),
+				array("Kisa 1","#","helper/290.jpg"),
+				array("Kisa 2","#","helper/289.jpg"),
+				array("Kisa 3","#","helper/288.jpg"),
+				array("Kisa 4","#","helper/291.jpg"),
 
 			);
 
