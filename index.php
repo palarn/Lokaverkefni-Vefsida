@@ -10,7 +10,7 @@
 
 		<script type="text/javascript" src="helper/jquery-2.0.3.js"></script>
 		<script type="text/javascript" src="helper/slider.js"></script>
-	<title>Mobile</title>
+	<title>Forritunar-Fréttir</title>
 </head>
 
 
@@ -24,17 +24,17 @@
 	
 	<section class="logotext">
 	<nav>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HOME</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">STORE</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">WHY</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HISTORY</a>
+		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HEIM</a>
+		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">KENNSLUMYNDBÖND</a>
+		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HAFÐU SAMBAND</a>
+		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">LEIKUR</a>
 	</nav>
 	</section>
 </section>
 
 	<section id="altmynd">
 		<div class="inpic">
-		<p> Þetta verður næs síða!</p>
+		<p> Áhugaverðar fréttir úr heimi forritunar!</p>
 		</div>
 
 	</section>
