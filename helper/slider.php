@@ -26,7 +26,7 @@
 				echo "
 				<div style='display: none;' class='large-image' id='slider-image-".$i."'>
 
-				<img src='".$slide_image."' alt='".$slide_title."' width='520px' height='290px'>
+				<a href='undirsidur/panda.php'><img src='".$slide_image."' alt='".$slide_title."' width='520px' height='290px'></a>
 				</div>";
 
 				echo"
