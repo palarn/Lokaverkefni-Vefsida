@@ -1,0 +1,253 @@
+/*
+  Comment list and entry styling
+*/
+
+.EPC-RSS-link {
+  float: right;
+  position: relative;
+  left: 1px;
+  top: -1px;
+  height: 18px;
+  width: 22px;
+  padding-top: 1px;
+  background: #FFF;
+  text-align: center;
+  border: 1px solid black;
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+  border-radius: 5px;
+}
+
+.EPC-list a { text-decoration: none; }
+.EPC-list a:link    { color: #33F; }
+.EPC-list a:visited { color: #33F; }
+.EPC-list a:hover   { color: #007; }
+.EPC-list a:active  { color: #33F; }
+
+.EPC-list {
+  width: 90%;
+  margin: 0px auto;
+}
+
+.EPC-depth {
+  margin-left: 1em;
+}
+
+.EPC-entry {
+  margin: 5px 0px;
+  margin-bottom: 1.3em;
+  padding: 1px;
+  border: 1px solid rgba(0,0,0,40);
+  border-radius: 10px 10px 10px 10px;
+  /*
+  background-color: #EEE;
+  */
+  background: #FFF; /* Old browsers */
+  background:    -moz-linear-gradient(top, #FFB 1%, #FF4 100%); /* FF3.6+ */
+  background: -webkit-linear-gradient(top, #FFB 1%, #FF4 100%); /* Chrome10+,Safari5.1+ */
+  background:      -o-linear-gradient(top, #FFB 1%, #FF4 100%); /* Opera 11.10+ */
+  background:     -ms-linear-gradient(top, #FFB 1%, #FF4 100%); /* IE10+ */
+  background:         linear-gradient(top, #FFB 1%, #FF4 100%); /* W3C */
+}
+
+.EPC-owner-comment {
+  background: #FFF; /* Old browsers */
+  background:    -moz-linear-gradient(top, #CCF 1%, #44F 100%); /* FF3.6+ */
+  background: -webkit-linear-gradient(top, #CCF 1%, #44F 100%); /* Chrome10+,Safari5.1+ */
+  background:      -o-linear-gradient(top, #CCF 1%, #44F 100%); /* Opera 11.10+ */
+  background:     -ms-linear-gradient(top, #CCF 1%, #44F 100%); /* IE10+ */
+  background:         linear-gradient(top, #CCF 1%, #44F 100%); /* W3C */
+}
+
+.EPC-entry-name {
+  padding-left: 1em;
+  display: table-cell;
+  font-style: italic;
+}
+
+.EPC-owner-comment .EPC-entry-time a:link    { color: #009; }
+.EPC-owner-comment .EPC-entry-time a:visited { color: #009; }
+.EPC-owner-comment .EPC-entry-time a:hover   { color: #77F; }
+.EPC-owner-comment .EPC-entry-time a:active  { color: #009; }
+
+
+.EPC-entry-time {
+  padding-left: 1em;
+  display: table-cell;
+  font-variant: small-caps;
+  font-size: 80%;
+  color: #669;
+}
+
+.EPC-entry-comment {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgba(0,0,0,40);
+  display: block;
+  position: relative;
+  top: 8px;
+  border-bottom: 1px solid white;
+  margin-top: -7px;
+/*
+  background: url('close.png') right bottom no-repeat,
+              url('open.png') left top no-repeat;
+*/
+  background-color: #FFF;
+}
+
+
+.EPC-entry-reply {
+  position: relative;
+  display: block;
+  text-align: right;
+  font-variant: small-caps;
+  margin-right: 1em;
+  font-weight: bold;
+  height: 0px;
+  color: #DDF;
+}
+
+/*
+  Comment form styling
+*/
+
+.EPC-form {
+  width: 80%;
+  margin: 0px auto;
+  padding: 3px 15px;
+  background-color: #EEE;
+  border: 1px solid black;
+  border-radius: 0px 15px 0px 15px;
+}
+
+.EPC-form-name {
+  margin: 1px;
+  padding: 1px;
+}
+
+.EPC-form-name label {
+  display: inline-block;
+  width: 4.5em;
+}
+
+.EPC-form-name input {
+  margin-left: 0.5em;
+  border: none;
+  border-bottom: 1px dashed grey;
+}
+
+.EPC-form-email {
+  margin: 1px;
+  padding: 1px;
+}
+
+.EPC-form-email label {
+  display: inline-block;
+  width: 4.5em;
+}
+
+.EPC-form-email input {
+  margin-left: 0.5em;
+  border: none;
+  border-bottom: 1px dashed grey;
+}
+
+.EPC-form-comment {
+  margin: 1px;
+  padding: 1px; }
+
+.EPC-form-comment textarea {
+  display: block;
+  width: 100%;
+  height: 10em;
+  border: 1px solid grey;
+}
+
+.EPC-form-buttons {
+  position: relative;
+  top: -0.7em;
+  left: 72%;
+  text-align: right;
+  height: 1em;
+  width: 28%;
+}
+
+.EPC-form-buttons input {
+  background-color: #66F;
+  color: #FFF;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.EPC-form-clear {
+  display: table-cell;
+  margin: 3px;
+  padding: 1px 3px;
+  border: 1px solid rgba(0,0,0,40);
+  border-radius: 3px;
+}
+
+.EPC-form-submit{
+  display: table-cell;
+  margin: 3px;
+  margin-right:-1em;
+  padding: 1px 3px;
+  border: 1px solid rgba(0,0,0,40);
+  border-radius: 3px;
+}
+
+/*
+  Comment form security question
+*/
+
+.EPC-security {
+  padding-top: 0.5em;
+}
+
+.EPC-security-question {
+  display: inline;
+}
+
+.EPC-security-question input {
+  margin-left: 0.5em;
+  border: none;
+  border-bottom: 1px dashed grey;
+}
+
+.EPC-security-question:before {
+  font-style: italic;
+  content: "Security question: ";
+}
+
+.EPC-security-answer {
+  margin-left: 0.5em;
+  border: none;
+  border-bottom: 1px dashed grey;
+  width: 3em;
+}
+
+.EPC-form-notify {
+  position: relative;
+  font-size: 80%;
+  margin-top:0.5em;
+  margin-bottom: -1em;
+}
+
+.EPC-form-notify input[type=checkbox] {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.2em;
+}
+
+/*
+  What happens to elements that were filling in incorrectly?
+*/
+
+.EPC-error-message {
+  color: red;
+}
+
+.EPC-error {
+  border: 2px solid red !important;
+}
