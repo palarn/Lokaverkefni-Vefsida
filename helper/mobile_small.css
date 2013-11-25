@@ -52,5 +52,9 @@
 	.frettamynd{
 		display:none;
 		}
+
+	.main-slider{
+		display: none;
+	}
 	
 }
