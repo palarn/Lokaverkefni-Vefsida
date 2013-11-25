@@ -6,11 +6,9 @@
 		<link rel="stylesheet" href="../helper/mobile.css">
 		<link rel="stylesheet" href="../helper/mobile_small.css">
 		<link rel="stylesheet" href="../helper/mobile_big.css">
-		<link rel="stylesheet" href="../helper/slider_style.css">
 		<link rel="stylesheet" type="text/css" href="EasyPageComments.css"/>
 
 		<script type="text/javascript" src="../helper/jquery-2.0.3.js"></script>
-		<script type="text/javascript" src="../helper/slider.js"></script>
 		<script type="text/javascript" src="EasyPageComments.js"></script>
    		<script type="text/javascript" src="pushComments.js"></script>
 	<title>Forritunar-Fréttir</title>

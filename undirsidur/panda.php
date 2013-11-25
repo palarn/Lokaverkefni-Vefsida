@@ -8,10 +8,11 @@
 		<link rel="stylesheet" href="../helper/mobile.css">
 		<link rel="stylesheet" href="../helper/mobile_small.css">
 		<link rel="stylesheet" href="../helper/mobile_big.css">
-		<link rel="stylesheet" href="../helper/slider_style.css">
+		<link rel="stylesheet" type="text/css" href="EasyPageComments.css"/>
 
 		<script type="text/javascript" src="../helper/jquery-2.0.3.js"></script>
-		<script type="text/javascript" src="../helper/slider.js"></script>
+		<script type="text/javascript" src="EasyPageComments.js"></script>
+   		<script type="text/javascript" src="pushComments.js"></script>
 	<!-- Settu inn titil hér-->
 	<title>Stóra Pöndumálið</title>
 </head>
@@ -46,6 +47,14 @@
 	<p>Etiam et suscipit metus. Phasellus iaculis ante sed felis hendrerit, quis condimentum nisi condimentum. Cras ante quam, congue ut nisl cursus, auctor egestas ante. In nulla ipsum, rhoncus ut sapien et, hendrerit eleifend ligula. Nunc congue facilisis est, ac vehicula odio dapibus sed. Maecenas vel aliquam odio, eu tristique quam. Nam ornare nunc vitae odio rutrum interdum. Sed rutrum erat a nisi pharetra malesuada.</p>
 	
 </div>
+
+<h2>Komments</h2>
+
+    <div id="Comments"></div>
+
+    <h2>Skildu eftir komment</h2>
+
+    <div id="CommentForm"></div>
 
 <section class="bottom">
 	<section id="b1">
