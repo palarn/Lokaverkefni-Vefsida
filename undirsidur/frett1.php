@@ -3,13 +3,13 @@
 
 <head>
 	<meta charset="utf-8">
-		<link rel="stylesheet" href="helper/mobile.css">
-		<link rel="stylesheet" href="helper/mobile_small.css">
-		<link rel="stylesheet" href="helper/mobile_big.css">
-		<link rel="stylesheet" href="helper/slider_style.css">
+		<link rel="stylesheet" href="../helper/mobile.css">
+		<link rel="stylesheet" href="../helper/mobile_small.css">
+		<link rel="stylesheet" href="../helper/mobile_big.css">
+		<link rel="stylesheet" href="../helper/slider_style.css">
 
-		<script type="text/javascript" src="helper/jquery-2.0.3.js"></script>
-		<script type="text/javascript" src="helper/slider.js"></script>
+		<script type="text/javascript" src="../helper/jquery-2.0.3.js"></script>
+		<script type="text/javascript" src="../helper/slider.js"></script>
 	<title>Forritunar-Fréttir</title>
 </head>
 
@@ -19,12 +19,12 @@
 <section id="top">
 	
 	<section class="logomynd">
-	<img src="myndir/logo.png" class="logo" alt="Lógó síðunar">
+	<img src="../myndir/logo.png" class="logo" alt="Lógó síðunar">
 	</section>
 	
 	<section class="logotext">
 	<nav>
-		<a class="lk" href="index.php">HEIM</a>
+		<a class="lk" href="../index.php">HEIM</a>
 		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">KENNSLUMYNDBÖND</a>
 		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HAFÐU SAMBAND</a>
 		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">LEIKUR</a>
@@ -34,7 +34,7 @@
 
 	<section id="altmynd">
 		<div class="inpic">
-		<p> Áhugaverðar fréttir úr heimi forritunar!</p>
+		<p></p>
 		</div>
 
 	</section>
@@ -45,62 +45,69 @@
 
 	<section id="I">
 		<article class="frett1">
+
+			<p> ForritunarFréttir | 25.11.2013 | 11:52 </p>
 			<h1>Hugbúnaðarráðstefnan 2013</h1>
+
+			<img src="../myndir/frett1.jpg" alt="Frétt1">
 			
-			<p class="frett">Hugbúnaðarráðstefna Ský
-					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30
+			<p class="frett">Hugbúnaðarráðstefna Ský </br>
+					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30 </br>
 
-					"Straumar og stefnur í forritun"
+					"Straumar og stefnur í forritun" </br>
 
-					Twitter: @SkyIceland #HugbRadst
+					Twitter: @SkyIceland #HugbRadst </br>
 
 
-					Margt áhugavert er í gangi í heimi hugbúnaðargerðar og höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu áherslum: „Development – Social – Software Ecosystem – Big Data“
+					Margt áhugavert er í gangi í heimi hugbúnaðargerðar og höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu</br>
+					áherslum: <b>„Development – Social – Software Ecosystem – Big Data“</b></br>
 
-					Taktu daginn strax frá og skráðu þig sem fyrst. Færð ekki betra tækifæri í bráð til að sjá og hitta vini þína í hugbúnaðargeiranum.
+					Taktu daginn strax frá og skráðu þig sem fyrst. Færð ekki betra tækifæri í bráð til að sjá og hitta vini þína í hugbúnaðargeiranum. </br></br>
 
-					Dagskrá:
+					<h3>Dagskrá:</h3></br>
 
-					13:00-13:20  Frá harðvíruðu yfir í atburðadrifið (SOA2) - féll því miður niður vegna veikinda
-					                            Axel Valdemar Gunnlaugsson, 365
+					13:00-13:20  Frá harðvíruðu yfir í atburðadrifið (SOA2) - féll því miður niður vegna veikinda </br>
+					                            Axel Valdemar Gunnlaugsson, 365</br></br>
 
-					13:20-13:40  Samvinna nemenda á netinu (Peer promotions)
-					                            Björn Leví Gunnarsson, Brandeis University USA
+					13:20-13:40  Samvinna nemenda á netinu (Peer promotions)</br>
+					                            Björn Leví Gunnarsson, Brandeis University USA</br></br>
 
-					13:40-14:00  Force.com og Platform-as-a-Service forritun
-					                             Ragnar Fjölnisson, Kaptio
+					13:40-14:00  Force.com og Platform-as-a-Service forritun</br>
+					                             Ragnar Fjölnisson, Kaptio</br></br>
 
-					14:00-14:20  Þjónustumiðuð kerfishögun með Node.js
-					                             Eiríkur Nilson, OZ
+					14:00-14:20  Þjónustumiðuð kerfishögun með Node.js</br>
+					                             Eiríkur Nilson, OZ</br></br>
 
-					14:20-14:40  Kaffihlé - tengslanetið eflt
+					14:20-14:40  Kaffihlé - tengslanetið eflt</br></br>
 
-					14:40-15:00  Greining gagna á flugi (Activity Stream)
-					                            Stefán Baxter, Flaumur
+					14:40-15:00  Greining gagna á flugi (Activity Stream)</br>
+					                            Stefán Baxter, Flaumur</br></br>
 
-					15:00-15:20  Kóðað í beinni (Play! 2.2)
-					                             Reynir Hubner, Hugsmiðjan
+					15:00-15:20  Kóðað í beinni (Play! 2.2)</br>
+					                             Reynir Hubner, Hugsmiðjan</br></br>
 
-					15:20-15:30   Örstutt pása - teygja úr sér og bæta á kaffibollann
+					15:20-15:30   Örstutt pása - teygja úr sér og bæta á kaffibollann</br></br>
 
-					15:30-15:50   Nýjar auðkenningarleiðir (RSA AA)
-					                            Peter Short, Landsbankinn
+					15:30-15:50   Nýjar auðkenningarleiðir (RSA AA)</br>
+					                            Peter Short, Landsbankinn</br></br>
 
-					15:50-16:10   Frumgerðir með Meteor
-					                            Bjarni Ingimar Júlíusson, GreenQloud       
+					15:50-16:10   Frumgerðir með Meteor</br>
+					                            Bjarni Ingimar Júlíusson, GreenQloud </br></br>      
 
-					16:10-16:30   Gagnasöfnun - reynslusaga
-					                            Páll Hilmarsson, Datamarket
+					16:10-16:30   Gagnasöfnun - reynslusaga</br>
+					                            Páll Hilmarsson, Datamarket</br></br>
 
-					16:30               Ráðstefnuslit
+					16:30               Ráðstefnuslit</br></br>
 
-					Fundarstjóri:  Sigurður E. Guttormsson, Trackwell
+					<b>Fundarstjóri:</b>  Sigurður E. Guttormsson, Trackwell</br></br>
 
-					Undirbúningsnefnd: Stjórn faghóps Ský um hugbúnaðargerð
+					<b>Undirbúningsnefnd:</b> Stjórn faghóps Ský um hugbúnaðargerð</br></br>
 
-					Verð fyrir félagsmenn Ský: 9.500 kr.
-					Verð fyrir utanfélagsmenn: 14.500 kr.
-					Verð fyrir aðila utan vinnumarkaðar: 4.000 kr. </p>
+					Verð fyrir <b>félagsmenn</b> Ský: 9.500 kr.</br>
+					Verð fyrir <b>utanfélagsmenn</b>: 14.500 kr.</br>
+					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.</br> </p>
+
+
 		
 			
 		</article>

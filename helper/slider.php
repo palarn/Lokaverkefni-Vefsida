@@ -2,7 +2,7 @@
 
 		$site_info = array(
 				array("Title not found","#","myndir/68.jpg"),
-				array("Kisa 1","#","myndir/290.jpg"),
+				array("Hugbúnaðarráðstefnan 2013","#","myndir/frett1.jpg"),
 				array("Kisa 2","#","myndir/289.jpg"),
 				array("Kisa 3","#","myndir/288.jpg"),
 				array("Kisa 4","#","myndir/291.jpg"),
@@ -26,7 +26,7 @@
 				echo "
 				<div style='display: none;' class='large-image' id='slider-image-".$i."'>
 
-				<a href='undirsidur/panda.php'><img src='".$slide_image."' alt='".$slide_title."' width='520px' height='290px'></a>
+				<a href='undirsidur/frett1.php'><img src='".$slide_image."' alt='".$slide_title."' width='520px' height='290px'></a>
 				</div>";
 
 				echo"
