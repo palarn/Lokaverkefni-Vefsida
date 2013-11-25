@@ -2,9 +2,9 @@
 
 		$site_info = array(
 				array("Title not found","#","myndir/68.jpg"),
-				array("Hugbúnaðarráðstefnan 2013","#","myndir/frett1.jpg"),
-				array("Kisa 2","#","myndir/289.jpg"),
-				array("Kisa 3","#","myndir/288.jpg"),
+				array("Hugbúnaðarráðstefnan 2013","undirsidur/frett1.php","myndir/frett1.jpg"),
+				array("Er erfitt að læra forritun?","undirsidur/frett2.php","myndir/frett2.png"),
+				array("Stóra pöndumálið","undirsidur/panda.php","myndir/panda.png"),
 				array("Kisa 4","#","myndir/291.jpg"),
 
 			);
