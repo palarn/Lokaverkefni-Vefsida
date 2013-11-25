@@ -21,7 +21,7 @@
 		padding-right:30px;
 		}
 		
-	.lk:not(:first-child){ 
+	.lk{ 
 		border-left: 1px solid; 
 		border-color: #D0D0D0; 
 		padding-left: 0.5em;
@@ -81,7 +81,11 @@
 	
 	.a1{
 		padding-right:30px;
+		width:50%;
 		}
+	.a2{
+		width: 50%;
+	}
 		
 		
 

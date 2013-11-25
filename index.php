@@ -52,7 +52,7 @@
 
 	<section id="I">
 		<article class="a1">
-			<h1><a href="http://localhost/Lokaverkefni-Vefsida/undirsidur/panda.php">Stóra Pöndumálið</a></h1>
+			<h1>Stóra Pöndumálið</h1>
 			
 			<p class="art">Etiam et suscipit metus. Phasellus iaculis ante sed felis hendrerit, quis condimentum nisi condimentum. 
 			Cras ante quam, congue ut nisl cursus, auctor egestas ante. In nulla ipsum, rhoncus ut sapien et, hendrerit eleifend ligula. 
@@ -60,34 +60,30 @@
 			Sed rutrum erat a nisi pharetra malesuada.</p>
 		
 			
-			<A HREF="http://www.mbl.is"><IMG SRC="myndir/takki.png" alt="Takki"></a>
+			<A HREF="undirsidur/panda.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
 		</article>
 
 
 		<article class="a2">
-			<h1>Get Your Lorem Ipsum Today</h1>
+			<h1>Hugbúnaðarráðstefnan 2013</h1>
 			
-			<p class="art">Donec vel urna sem. In purus justo, sodales vitae nisi quis, elementum mollis ligula. Aliquam suscipit sed elit ut interdum. 
-			Duis neque lectus, luctus vitae pulvinar et, convallis sit amet nisi. Proin ut vulputate odio. Aliquam congue lacus a ullamcorper mollis. 
-			Etiam a ligula eleifend, dictum arcu et, vulputate sapien. Quisque ut convallis dui. Sed ut rhoncus leo, bibendum vulputate nibh. 
-			Morbi mattis vel sapien a pellentesque.</p>
+			<p class="art">Margt áhugavert er í gangi í heimi hugbúnaðargerðar og 
+				höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu</p>
 			
-			<A HREF="http://www.mbl.is"><IMG SRC="myndir/takki.png" alt="Takki"></a>
+			<A HREF="undirsidur/frett1.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
 		</article>
 	</section>
 
 	<section id="II">
 		<article class="a1">
-			<h1>Why Lorem Ipsum?</h1>
+			<h1>Er erfitt að læra forritun?</h1>
 			
-			<p class="art">Etiam et suscipit metus. Phasellus iaculis ante sed felis hendrerit, quis condimentum nisi condimentum. 
-			Cras ante quam, congue ut nisl cursus, auctor egestas ante. In nulla ipsum, rhoncus ut sapien et, hendrerit eleifend ligula. 
-			Nunc congue facilisis est, ac vehicula odio dapibus sed. Maecenas vel aliquam odio, eu tristique quam. 
-			Nam ornare nunc vitae odio rutrum interdum. Sed rutrum erat a nisi pharetra malesuada.</p>
+			<p class="art">Sumum finnst mjög auðvelt að læra forritun en aðrir ná sér aldrei almennilega á strik í því. 
+				Þeir sem hafa gaman af rökhugsun og nákvæmnisvinnu tileinka sér í flestum tilvikum forritun tiltölulega auðveldlega.</p>
 		
-			<A HREF="http://www.mbl.is"><IMG SRC="myndir/takki.png" alt="Takki"></a>
+			<A HREF="undirsidur/frett2.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
 		</article>
 
