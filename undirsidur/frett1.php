@@ -49,12 +49,10 @@
 			<p> ForritunarFréttir | 25.11.2013 | 11:52 </p>
 			<h1>Hugbúnaðarráðstefnan 2013</h1>
 
-			<img src="../myndir/frett1.jpg" alt="Frétt1">
-			
-			<p class="frett">Hugbúnaðarráðstefna Ský </br>
+			<img src="../myndir/frett1.jpg" alt="Frétt1" align="left"><p>Hugbúnaðarráðstefna Ský </br></br>
 					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30 </br>
 
-					"Straumar og stefnur í forritun" </br>
+					<h2>"Straumar og stefnur í forritun" </h2>
 
 					Twitter: @SkyIceland #HugbRadst </br>
 

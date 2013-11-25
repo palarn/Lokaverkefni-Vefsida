@@ -49,6 +49,16 @@ box-sizing:border-box;
 
 }
 
+.frett{
+ 	font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Regular-webfont.eot');
+    /* src fallbacks ommitted for brevity */
+ 	line-height: 25px;
+ 	font-size: 12pt;
+
+}
+
+
 h1{
 font-family: Georgia;
 }
