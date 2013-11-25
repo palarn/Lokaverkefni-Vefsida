@@ -83,8 +83,12 @@
 		padding-right:30px;
 		width:50%;
 		}
+
 	.a2{
 		width: 50%;
+	}
+	.b3{
+		width:50%;
 	}
 		
 		
@@ -99,7 +103,9 @@
 		
 	.b2{
 		padding-right:30px;
+		width:50%;
 		}
+
 	footer{
 		margin-right:30px;
 		margin-left: 30px;
