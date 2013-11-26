@@ -26,9 +26,9 @@
 	<section class="logotext">
 	<nav>
 		<a class="lk" href="../index.php">HEIM</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">KENNSLUMYNDBÖND</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">HAFÐU SAMBAND</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">LEIKUR</a>
+		<a class="lk" href="video.php">KENNSLUMYNDBÖND</a>
+		<a class="lk" href="hafdu_samband.php">HAFÐU SAMBAND</a>
+		<a class="lk" href="../leikur.php/Asteroids!.htm">LEIKUR</a>
 	</nav>
 	</section>
 </section>
@@ -126,10 +126,10 @@
 	<aside class="b2">
 		<h2>Forritunar Fréttir</h2>
 		<ul>
-			<li><a class="bt" href="http://www.hi.is">Heim</a>
-			<li><a class="bt" href="http://www.hi.is">Kennslumyndbönd</a>		
-			<li><a class="bt" href="http://www.hi.is">Hafðu Samband</a>		
-			<li><a class="bt" href="http://www.hi.is">Leikur</a>			
+			<li><a class="bt" href="../index.php">Heim</a>
+			<li><a class="bt" href="video.php">Kennslumyndbönd</a>		
+			<li><a class="bt" href="hafdu_samband.php">Hafðu Samband</a>		
+			<li><a class="bt" href="../leikur/Asteroids!.htm">Leikur</a>			
 		</ul>
 	</aside>
 	
