@@ -44,7 +44,6 @@
 	
 <div id="main">
 
-	<section id="I">
 		<article class="frett1">
 
 			<p> ForritunarFréttir | 25.11.2013 | 11:52 </p>
