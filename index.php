@@ -38,14 +38,14 @@
 
 	</section>
 
-
-	<div class="main-slider">
-		<?php
-			include 'helper/slider.php';
-		?>
-		
+	<div class="midja">
+		<div class="main-slider">
+			<?php
+				include 'helper/slider.php';
+			?>
+		</div>
+		<img src="myndir/grin.jpg" class="midjar" alt="grín">
 	</div>
-
 
 <div id="main">
 
