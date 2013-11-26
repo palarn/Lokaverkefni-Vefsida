@@ -68,7 +68,9 @@
 			<h1>Hugbúnaðarráðstefnan 2013</h1>
 			
 			<p class="art">Margt áhugavert er í gangi í heimi hugbúnaðargerðar og 
-				höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu</p>
+				höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu áherslum: „Development – Social – Software Ecosystem – Big Data“
+				Taktu daginn strax frá og skráðu þig sem fyrst. Færð ekki betra tækifæri í bráð til að sjá og hitta vini þína í hugbúnaðargeiranum. 
+				Smellið á lesa meira til þess að sjá nánari dagskrá.</p>
 			
 			<A HREF="undirsidur/frett1.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
@@ -80,7 +82,10 @@
 			<h1>Er erfitt að læra forritun?</h1>
 			
 			<p class="art">Sumum finnst mjög auðvelt að læra forritun en aðrir ná sér aldrei almennilega á strik í því. 
-				Þeir sem hafa gaman af rökhugsun og nákvæmnisvinnu tileinka sér í flestum tilvikum forritun tiltölulega auðveldlega.</p>
+				Þeir sem hafa gaman af rökhugsun og nákvæmnisvinnu tileinka sér í flestum tilvikum forritun tiltölulega auðveldlega.
+				Ef fólk vill komast að hvort það hafi ánægju af forritun eða hæfileika til forritunar þá er besta aðferðin sennilega sú að prófa einfaldlega 
+				að forrita. Hafi fólk ánægju af forritun er líklegra að það hafi hæfileika. Til eru fjölmörg forritunarmál með mismunandi kosti og galla.
+				Smellið á lesa meira til að sjá nánar um þessa frétt. </p>
 		
 			<A HREF="undirsidur/frett2.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
@@ -88,14 +93,15 @@
 
 
 		<article class="a2">
-			<h1>Read Our Fascintaing History</h1>
+			<h1>Forritun, stelpur og grunnskólinn</h1>
 			
-			<p class="art">Donec vel urna sem. In purus justo, sodales vitae nisi quis, elementum mollis ligula. Aliquam suscipit sed elit ut interdum. 
-			Duis neque lectus, luctus vitae pulvinar et, convallis sit amet nisi. Proin ut vulputate odio. Aliquam congue lacus a ullamcorper mollis. 
-			Etiam a ligula eleifend, dictum arcu et, vulputate sapien. Quisque ut convallis dui. Sed ut rhoncus leo, bibendum vulputate nibh. 
-			Morbi mattis vel sapien a pellentesque.</p>
+			<p class="art">Samkvæmt aðalnámskrá grunnskólanna eiga nemendur í 10. bekk að geta „nýtt hugbúnað við forritun og miðlun þekkingar á fjölbreyttan 
+				og skapandi hátt.“ Til þess að ná þessu markmiði fá þeir 80 mínútur á viku í upplýsinga- og tæknimenntun. Þá fá allar aðrar námsgreinirnar yfir 
+				340 mínútur hver á viku. Þannig fær tæknimenntunin 2,68% af vikulegum kennslutíma. Aðalnámskráin lýsir upplýsinga- og tæknimenntuninni svo: 
+				„Undir þetta heyrir m.a. miðlamennt, skólasafnsfræði, tölvunotkun og upplýsinga- og samskiptatækni. Smellið á lesa meira til þess sjá nánar um
+				þessa frétt.</p>
 		
-			<A HREF="http://www.mbl.is"><IMG SRC="myndir/takki.png" alt="Takki"></a>
+			<A HREF="undirsidur/frett4.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
 		</article>
 
