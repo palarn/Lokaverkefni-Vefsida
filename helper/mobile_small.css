@@ -25,6 +25,7 @@
 		}
 	#altmynd{
 		font-size:2em;
+		height: 5em;
 		}
 	#main{
 		box-sizing:border-box;
@@ -52,6 +53,10 @@
 	.frettamynd{
 		display:none;
 		}
+
+	.midjar{
+		display: none;
+	}
 
 	.main-slider{
 		display: none;
