@@ -28,7 +28,7 @@
 		<a class="lk" href="../index.php">HEIM</a>
 		<a class="lk" href="video.php">KENNSLUMYNDBÖND</a>
 		<a class="lk" href="hafdu_samband.php">HAFÐU SAMBAND</a>
-		<a class="lk" href="../leikur.php/Asteroids!.htm">LEIKUR</a>
+		<a class="lk" href="../leikur/leikir.php">LEIKUR</a>
 	</nav>
 	</section>
 </section>
@@ -129,7 +129,7 @@
 			<li><a class="bt" href="../index.php">Heim</a>
 			<li><a class="bt" href="video.php">Kennslumyndbönd</a>		
 			<li><a class="bt" href="hafdu_samband.php">Hafðu Samband</a>		
-			<li><a class="bt" href="../leikur/Asteroids!.htm">Leikur</a>			
+			<li><a class="bt" href="../leikur/leikir.php">Leikur</a>			
 		</ul>
 	</aside>
 	
