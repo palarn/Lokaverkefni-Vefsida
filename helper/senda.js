@@ -4,7 +4,11 @@ function validateForm()
 	try
 	{
 		var x=document.getElementById("net").value;
-		if (x==null || x=="") throw "Settu inn löglegt netfang";
+		var atpos=x.indexOf("@");
+		var dotpos=x.lastIndexOf(".");
+			if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+			//if (x==null || x=="") 
+				throw "Settu inn löglegt netfang";
 	}
 	catch (err)
 	{
@@ -20,7 +24,7 @@ function simi()
 	try
 	{
 		var x=document.getElementById("numer").value;
-		if (x==null || x=="") throw "Athugaðu símanúmerið aftur";
+		if (isNaN(x) || x==null || x=="") throw "Athugaðu símanúmerið aftur";
 	}
 	catch (err)
 	{
