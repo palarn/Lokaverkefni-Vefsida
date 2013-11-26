@@ -62,6 +62,7 @@
 		}
 	
 	#I{
+			clear:both;
 			display: flex;
 			box-flex:1.0;
 			justify-content: space-around;
