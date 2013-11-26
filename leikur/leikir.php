@@ -50,8 +50,8 @@
 			<h2>Leikir forritaðir af ritstjóra forritunarfrétta!</h2>
 			<h3>
 			<ul>
-			<li><a href="asteroids/ASTEROIDS!.htm">Asteroids</a>
-			<li><a href="bomberman/bomberman.html">Bomberman</a>
+			<li><a href="asteroids/ASTEROIDS!.htm"><img class="leikja_pic" src="../myndir/leikur.png" alt="screenshot">Asteroids</a>
+			<li><a href="bomberman/bomberman.html"><img class="leikja_pic" src="../myndir/leikur2.png" alt="screenshot">Bomberman</a>
 			</ul>
 		</h3>
 
