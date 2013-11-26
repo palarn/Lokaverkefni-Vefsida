@@ -87,10 +87,10 @@ Pöndur eyða um það bil 12 klst á dag í fæðuöflun, en næringarinnihald 
 	<aside class="b2">
 		<h2>Forritunar Fréttir</h2>
 		<ul>
-			<li><a class="bt" href="index.php">Heim</a>
-			<li><a class="bt" href="undirsidur/video.php">Kennslumyndbönd</a>		
-			<li><a class="bt" href="undirsidur/hafdu_samband.php">Hafðu Samband</a>		
-			<li><a class="bt" href="leikur/Asteroids!.htm">Leikur</a>				
+			<li><a class="bt" href="../index.php">Heim</a>
+			<li><a class="bt" href="video.php">Kennslumyndbönd</a>		
+			<li><a class="bt" href="hafdu_samband.php">Hafðu Samband</a>		
+			<li><a class="bt" href="../leikur/Asteroids!.htm">Leikur</a>			
 		</ul>
 	</aside>
 	
