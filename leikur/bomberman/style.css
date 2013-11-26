@@ -1,0 +1,66 @@
+body{
+	display:block;
+	margin: auto;
+	max-width: 1024px;
+	min-width: 420px;
+	font-size:12px;
+	color: white;
+	width: 100%;
+	background-color: black;
+	background-image:url('https://notendur.hi.is/~pap5/bomberman/pic/Bomberman%20generation.jpg');
+}
+
+
+#livesCanvas{
+	margin-bottom: 20%;
+	background-color: #F08000;
+	width: 15%;
+}
+canvas{
+	float:left ;
+	display: block;
+	margin: 10px;
+	background-color:orange;
+	padding: 10px;
+	border: solid;
+	border-color: grey;
+	width: 55%;
+
+}
+
+#text{
+	display: block;
+	margin: auto;
+	text-align: center;
+	border:solid;
+	border-color: orange;
+	font-size: 1.2em;
+	float: left;
+	color: white;
+	font-family: sans-serif;
+	width: 20%;
+	background-color: black;
+	background-repeat: no-repeat;
+}
+#moreText, #drop{
+
+	display: block;
+	background-color: black;
+	border:solid;
+	border-color: orange;
+	margin: auto;
+	padding: 10px;
+	font-size: 1.2em;
+	float: left;
+	color: white;
+	font-family: sans-serif;
+	width: 15%;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color: white;
+}
