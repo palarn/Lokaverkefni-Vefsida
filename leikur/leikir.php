@@ -26,8 +26,8 @@
 	<section class="logotext">
 	<nav>
 		<a class="lk" href="../index.php">HEIM</a>
-		<a class="lk" href="video.php">KENNSLUMYNDBÖND</a>
-		<a class="lk" href="hafdu_samband.php">HAFÐU SAMBAND</a>
+		<a class="lk" href="../undirsidur/video.php">KENNSLUMYNDBÖND</a>
+		<a class="lk" href="../undirsidur/hafdu_samband.php">HAFÐU SAMBAND</a>
 		<a class="lk" href="">LEIKUR</a>
 	</nav>
 	</section>
@@ -51,7 +51,7 @@
 			<h3>
 			<ul>
 			<li><a href="asteroids/ASTEROIDS!.htm"><img class="leikja_pic" src="../myndir/leikur.png" alt="screenshot">Asteroids</a>
-			<li><a href="bomberman/bomberman.html"><img class="leikja_pic" src="../myndir/leikur2.png" alt="screenshot">Bomberman</a>
+			<li><a href="bomberman/bomberman.html"><img class="leikja_pic" src="../myndir/leikur2.png" alt="screenshot">Bomberman(bara í Chrome)</a>
 			</ul>
 		</h3>
 
