@@ -27,7 +27,7 @@
 		<a class="lk" href="index.php">HEIM</a>
 		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">KENNSLUMYNDBÖND</a>
 		<a class="lk" href="undirsidur/hafdu_samband.php">HAFÐU SAMBAND</a>
-		<a class="lk" href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">LEIKUR</a>
+		<a class="lk" href="leikur/Asteroids!.htm">LEIKUR</a>
 	</nav>
 	</section>
 </section>
