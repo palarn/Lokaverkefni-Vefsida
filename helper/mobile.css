@@ -9,6 +9,7 @@ body{
 	min-width: 420px;
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
+	background-color: #eeeeee;
 }
 
 @font-face {
@@ -22,6 +23,7 @@ body{
 
 div.main{
 		display:border-box;
+
 }
 
 .main-slider{
@@ -43,6 +45,7 @@ ul{
 
 article{
 box-sizing:border-box;
+
 
 }
 
@@ -146,10 +149,6 @@ a.bt:hover{
 	text-decoration:underline;
 	}
 
-.error{
-	font-weight:bold;
-	color:red;
-	}
 	
 /*undirsíður*/
 
