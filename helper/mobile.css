@@ -133,9 +133,13 @@ a:link{
 	color: #333;
 	text-decoration:none;
 }
+
+a.bt:link{
+	text-decoration: underline;
+}
 	
 a:visited{
-	color: #55c;
+	color: navy;
 	}
 
 a:hover{
