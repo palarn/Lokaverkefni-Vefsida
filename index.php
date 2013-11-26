@@ -51,15 +51,15 @@
 
 	<section id="I">
 		<article class="a1">
-			<h1>Stóra Pöndumálið</h1>
+			<h1>Hvað er hlutbundin forritun og til hvers er hún notuð?</h1>
 			
-			<p class="art">Etiam et suscipit metus. Phasellus iaculis ante sed felis hendrerit, quis condimentum nisi condimentum. 
-			Cras ante quam, congue ut nisl cursus, auctor egestas ante. In nulla ipsum, rhoncus ut sapien et, hendrerit eleifend ligula. 
-			Nunc congue facilisis est, ac vehicula odio dapibus sed. Maecenas vel aliquam odio, eu tristique quam. Nam ornare nunc vitae odio rutrum interdum. 
-			Sed rutrum erat a nisi pharetra malesuada.</p>
+			<p class="art">Hlutbundin forritun (e. object-oriented programming) er fyrst og fremst heiti yfir ákveðnar forritunaraðferðir sem gjarnan er 
+				stillt upp á móti ferlislegri forritun (e. procedural programming). Forritunarmál eins og Smalltalk, Java og C++ styðja hlutbundna forritun, 
+				meðan önnur, svo sem C, Pascal og Basic, gera það ekki sérstaklega þó hægt sé að notast við hlutbundnar aðferðir í þeim. Þegar talað er um
+				hlutbundin forritunarmál (e. object-oriented programming languages) er því átt við þau forritunarmál sem sérstaklega styðja þessar aðferðir.</p>
 		
 			
-			<A HREF="undirsidur/panda.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
+			<A HREF="undirsidur/frett3.php"><IMG SRC="myndir/takki.png" alt="Takki"></a>
 
 		</article>
 
