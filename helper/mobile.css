@@ -146,6 +146,10 @@ a.bt:hover{
 	text-decoration:underline;
 	}
 
+.error{
+	font-weight:bold;
+	color:red;
+	}
 	
 /*undirsíður*/
 
