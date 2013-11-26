@@ -34,7 +34,6 @@
 
 	<section id="altmynd">
 		<div class="inpic">
-		<p> Áhugaverðar fréttir úr heimi forritunar!</p>
 		</div>
 
 	</section>

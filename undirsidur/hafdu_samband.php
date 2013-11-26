@@ -49,7 +49,7 @@
 
 	<form action="" id="samband">
 		<p>Tölvupóstfang <input type="text" id="net" placeholder="" ></p>
-		<p>Símanúmer <input type="number" id="numer" placeholder="" ></p>
+		<p>Símanúmer <input type="text" id="numer" placeholder="" ></p>
 		<p>Skrá <input type="file" name="skra" id="nr_skra" class="upload" ></p>
 		<p>Settu inn texta.<br><textarea rows="4" cols="50"></textarea></p>
 		<button type="button" form="samband" onClick="validateForm();">Senda</button>
