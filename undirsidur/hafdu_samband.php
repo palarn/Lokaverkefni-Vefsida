@@ -63,10 +63,10 @@
 	<aside class="b2">
 		<h2>Forritunar Fréttir</h2>
 		<ul>
-			<li><a class="bt" href="http://www.hi.is">Heim</a>
-			<li><a class="bt" href="http://www.hi.is">Kennslumyndbönd</a>		
-			<li><a class="bt" href="http://www.hi.is">Hafðu Samband</a>		
-			<li><a class="bt" href="http://www.hi.is">Leikur</a>			
+			<li><a class="bt" href="index.php">Heim</a>
+			<li><a class="bt" href="undirsidur/video.php">Kennslumyndbönd</a>		
+			<li><a class="bt" href="undirsidur/hafdu_samband.php">Hafðu Samband</a>		
+			<li><a class="bt" href="leikur/Asteroids!.htm">Leikur</a>			
 		</ul>
 	</aside>
 	
