@@ -27,7 +27,9 @@ div.main{
 }
 
 .main-slider{
-	margin: 30px;
+	margin-left: 30px;
+	margin-top: 30px;
+	float: left;
 }
 
 nav{
@@ -151,6 +153,7 @@ a.bt:hover{
 	
 .midjar{
 	float:right;
+	margin:30px;
 	}	
 
 	
