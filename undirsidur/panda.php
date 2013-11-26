@@ -50,12 +50,24 @@
 			<p> ForritunarFréttir | 10.11.2013 | 19:52 </p>
 			<h1>Stóra Pöndumálið</h1>
 
-			<img src="../myndir/panda.png" alt="panda" align="left"><div class="frett">Sumum finnst mjög auðvelt að læra forritun en aðrir ná sér aldrei almennilega á strik í því. Þeir sem hafa gaman af rökhugsun og nákvæmnisvinnu tileinka sér í flestum tilvikum forritun tiltölulega auðveldlega. Ef fólk vill komast að hvort það hafi ánægju af forritun eða hæfileika til forritunar þá er besta aðferðin sennilega sú að prófa einfaldlega að forrita. Hafi fólk ánægju af forritun er líklegra að það hafi hæfileika.
+			<img src="../myndir/panda.png" alt="panda" align="left"><div class="frett">Risapandan (Ailuropoda melanoleuca), eða bambusbjörn eins og hún hefur einnig verið kölluð, er digurvaxinn og kraftalegur björn að meðalstærð. Feldurinn er þéttur og með sérkennilegu hvítflekkkóttu mynstri. Fullorðin panda vegur á bilinu 80 til 120 kg og er um 150 til 180 cm á hæð.
 
-						Til eru fjölmörg forritunarmál með mismunandi kosti og galla. Þau henta misvel eftir því hvers konar vandamál er verið að glíma við. Flestir sem vilja kynna sér forritun lauslega byrja sennilega á einhvers konar vefsíðuforritun, til dæmis með því að nota Javascript. Af öðrum forritunarmálum er trúlega Visual Basic frá Microsoft algengast fyrir byrjendur, en einnig eru sumir sem byrja á að nota Java. Enn aðrir byrja á stærðfræðilegri eða rökfræðilegri forritunarmálum svo sem Scheme. Þá er Python af sumum talið gott sem fyrsta forritunarmál.
+Flokkun og lifnaðarhættir
+Þó pandan tilheyri bjarndýrum eru lífshættir hennar og útlit nokkuð frábrugðin. Hún er vel aðlöguð að þeim búsvæðum sem hún lifir á og eru lífshættir hennar því nokkuð sérhæfðir. Hauskúpan er breiðari en hjá öðrum bjarndýrum og snoppan styttri. Jaxlarnir eru einnig mun breiðari og kröftugri en hjá öðrum rándýrum og minna frekar á fellingarjaxla hófdýra. Þetta er lýsandi fyrir aðlögun pöndunnar að jurtafæði. 
 
-						Ótölulegur fjöldi bóka um forritun er nú fáanlegur, en einnig má finna leiðbeiningar á vefnum fyrir flest tiltæk forritunarmál, bæði handbækur og kennslubækur. Trúlega er best að prófa sig áfram með þau tól og þær leiðbeiningar sem finna má ókeypis á vefnum og síðan má ef til vill kaupa tól og bækur eftir því sem þekkingin eykst og þarfirnar verða skýrari.
-						</div>
+Ólíkt öðrum björnum þá leggjast pöndur ekki í hýði. Á veturna færa þær sig niður í dali og hafa þar hægt um sig. Ólíkt öðrum björnum merkja pöndur sér ákveðin svæði. Bæði kynin marka sér land með lyktarmerkingum, en við endaþarminn eru kirtar sem gefa frá sér sterkþefjandi safa. Þær nudda endaþarminum við trjáboli og losa þannig efnið frá kirtlunum. 
+
+Viðamiklar rannsóknir sem gerðar hafa verið á uppruna panda hafa staðfest það að þær teljist til bjarnardýra. Þær eru þó fjarskyldari en aðrar tegundir, en talið er að þær hafi skilist frá öðrum björnum fyrir um 13 milljón árum síðan.</br></br>
+<b>Æxlun</b></br>
+Þegar birnurnar eru yxna sprauta þær efnum sem innihalda kynhormón úr endaþarmskirtli. Þær gefa einnig frá sér ákveðin hljóðmerki til að laða að karldýr, en æxlun á sér stað á tímabilinu frá mars til maí. Líkt og þekkist meðal annarra rándýra verður seinkun á þroskun fósturvísis skömmu eftir frjóvgun. Húnarnir fæðast því á kjörtíma í ágúst eða byrjun september þegar pöndurnar halda til í fjallendi Miðhluta Kína. 
+
+Raunþroskunartími fóstursins er aðeins 6 vikur og seinkunin varir því á fjórða mánuð. Húnarnir vega aðeins frá 85 til 140 gr við got og eru bæði hárlausir og blindir. Það fyrsta sem birnan gerir er að staðsetja húninn við spena svo hann geti byrjað að sjúga. Húnarnir fá sjón við þriggja vikna aldur og halda sig í samvistum við móður sína um það bil 18 mánuði. Pöndur verða kynþroska þegar þær eru um það bil sjö ára og eignast hver birna venjulega 2-3 húna á lífsleiðinni.</br></br>
+
+<b>Staða pöndunnar</b></br>
+Pandan finnst nú á afar takmörkuðu svæði í héruðunum Sichuan, Gansu, og Shanxi í miðhluta Kína. Þessi svæði eru hálend, í um 1200 til 3500 m.h.y.s. og heldur pandan oftast til í gjám og fjalladölum þar sem er mikill bambusgróður. Þar situr hún megnið af deginum og nagar bambussprota, en bambus er uppistaðan í fæðu pöndunnar.
+
+Pöndur eyða um það bil 12 klst á dag í fæðuöflun, en næringarinnihald bambuss er frekar lítið og hún þarf því mikið af honum. Kostirnir eru þó þeir að nægt framboð er af honum allt árið um kring ólíkt öðrum plöntum. Rannsóknir hafa sýnt að allt að 99% af fæðu pöndunnar er bambus, en afgangurinn eru ýmsar tegundir ávaxta og jafnvel smærri hryggdýr og skordýr.
+</div>
 		
 			
 		</article>
