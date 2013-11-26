@@ -48,11 +48,12 @@
 
 			<h1>Leikir</h1>
 			<h2>Leikir forritaðir af ritstjóra forritunarfrétta!</h2>
+			<h3>
 			<ul>
 			<li><a href="asteroids/ASTEROIDS!.htm">Asteroids</a>
 			<li><a href="bomberman/bomberman.html">Bomberman</a>
 			</ul>
-		
+		</h3>
 
 
 		

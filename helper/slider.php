@@ -5,7 +5,7 @@
 				array("Hugbúnaðarráðstefnan 2013","undirsidur/frett1.php","myndir/frett1.jpg"),
 				array("Er erfitt að læra forritun?","undirsidur/frett2.php","myndir/frett2.png"),
 				array("Stóra pöndumálið","undirsidur/panda.php","myndir/panda.png"),
-				array("Hefur þú prófað leikinn okkar?","leikur/ASTEROIDS!.htm","myndir/leikur.png"),
+				array("Hefur þú prófað leikina okkar?","leikur/leikir.php","myndir/leikur3.png"),
 
 			);
 
