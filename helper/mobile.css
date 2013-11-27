@@ -142,7 +142,7 @@ a.bt:hover{
 /*undirsíður*/
 
 .frettamynd{
-	float:right;		
+	float:left;		
 	}
 	
 .error{
@@ -150,6 +150,7 @@ a.bt:hover{
 	}
 	
 .frett{
+	
  	font-family: 'Open Sans';
     src: url('fonts/OpenSans-Regular-webfont.eot');
     /* src fallbacks ommitted for brevity */

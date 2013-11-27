@@ -49,7 +49,7 @@
 			<p> ForritunarFréttir | 25.11.2013 | 11:52 </p>
 			<h1>Hugbúnaðarráðstefnan 2013</h1>
 
-			<img src="../myndir/frett1.jpg" alt="Frétt1"><p>Hugbúnaðarráðstefna Ský <br><br>
+			<img src="../myndir/frett1.jpg" class="frettamynd" alt="Frétt1"><div class="frett"><p>Hugbúnaðarráðstefna Ský <p><br>
 					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30 <br>
 
 					<h2>"Straumar og stefnur í forritun" </h2>
@@ -70,7 +70,7 @@
 					13:20-13:40  Samvinna nemenda á netinu (Peer promotions)<br>
 					                            Björn Leví Gunnarsson, Brandeis University USA<br><br>
 
-					13:40-14:00  Force.com og Platform-as-a-Service forritun</br>
+					13:40-14:00  Force.com og Platform-as-a-Service forritun<br>
 					                             Ragnar Fjölnisson, Kaptio<br><br>
 
 					14:00-14:20  Þjónustumiðuð kerfishögun með Node.js<br>
@@ -106,7 +106,7 @@
 					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.<br> </p>
 
 
-		
+				</div>
 			
 		</article>
 	</div>
