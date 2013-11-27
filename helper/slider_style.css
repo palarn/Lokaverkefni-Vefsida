@@ -68,6 +68,8 @@ a{
 	clear: right;
 	cursor: pointer;
 	margin-top: 5px;
+	width:110px; 
+	height:65px;
 }
 
 .main-slider .slider-sidebar .image2{
@@ -75,16 +77,28 @@ a{
 	cursor: pointer;
 	margin-top: 6px;
 	margin-bottom: 6px;
+	width:110px; 
+	height:65px;
 }
 
 .main-slider .slider-sidebar .image3{
 	clear: right;
 	cursor: pointer;
 	margin-bottom: 6px;
+	width:110px; 
+	height:65px;
 }
 
 .main-slider .slider-sidebar .image4{
 	clear: right;
 	cursor: pointer;
 	margin-bottom: 5px;
+	width:110px; 
+	height:65px;
 }
+
+.main-slider .slider-large-image .big_image{
+	 width:520px; 
+	 height:290px;
+}
+

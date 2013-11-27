@@ -26,7 +26,7 @@
 				echo "
 				<div style='display: none;' class='large-image' id='slider-image-".$i."'>
 
-				<a href='undirsidur/frett1.php'><img src='".$slide_image."' alt='".$slide_title."' width='520px' height='290px'></a>
+				<a href='undirsidur/frett1.php'><img src='".$slide_image."' class='big_image' alt='.$slide_title.'></a>
 				</div>";
 
 				echo"
@@ -48,7 +48,7 @@
 				$slide_link = $site_info[$i][1];
 				$slide_image = $site_info[$i][2];
 
-				echo "<img onClick=\"slider_select(".$i.");\" class='image".$i."' src='".$slide_image."' alt='".$slide_title."' width='110px' height='65px'>";
+				echo "<img onClick=\"slider_select(".$i.");\" class='image".$i."' src='".$slide_image."' alt='.$slide_title.'>";
 			
 			}
 			?>
