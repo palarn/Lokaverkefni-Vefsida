@@ -40,8 +40,8 @@
 	
 	<div class="error" id="error1">
 		<ul>
-			<p><div id="e"></div></p>
-			<p><div id="e1"></div></p>
+			<li id="e"></li>
+			<li id="e1"></li>
 		</ul>	
 	</div>
 

@@ -48,18 +48,13 @@
 
 			<h1>Leikir</h1>
 			<h2>Leikir forritaðir af ritstjóra forritunarfrétta!</h2>
-			
 			<ul>
-				<h3>
-				<li><a href="asteroids/ASTEROIDS!.htm"><img class="leikja_pic" src="../myndir/leikur.png" alt="screenshot">Asteroids</a>
-				<li><a href="bomberman/bomberman.html"><img class="leikja_pic" src="../myndir/leikur2.png" alt="screenshot">Bomberman(bara í Chrome)</a>		
-				</h3>
+			<li><h3><a href="asteroids/ASTEROIDS!.htm"><img class="leikja_pic" src="../myndir/leikur.png" alt="screenshot">Asteroids</a></h3>
+			<li><h3><a href="bomberman/bomberman.html"><img class="leikja_pic" src="../myndir/leikur2.png" alt="screenshot">Bomberman(bara í Chrome)</a></h3>
 			</ul>
-
-		
 			
 		</article>
-	</div>
+</div>
 
 
 		

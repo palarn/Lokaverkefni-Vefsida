@@ -61,10 +61,9 @@
 			<b>Höfundur:</b> Ingibjörg Ósk Jónsdóttir, nemandi í hugbúnaðarverkfræði við tölvunarfræðideild Háskólans í Reykjavík
 
 			</div>
-		
-			
 		</article>
-	</div>
+	</section>	
+</div>
 
 <h2>Komments</h2>
 

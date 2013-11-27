@@ -103,7 +103,7 @@
 
 					Verð fyrir <b>félagsmenn</b> Ský: 9.500 kr.<br>
 					Verð fyrir <b>utanfélagsmenn</b>: 14.500 kr.<br>
-					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.<br> </p>
+					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.<br>
 
 
 				</div>
