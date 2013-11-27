@@ -175,6 +175,11 @@ a.bt:hover{
 	
 	}
 	
+.error{
+	color:red;
+	}
+		
+	
 .frett{
  	font-family: 'Open Sans';
     src: url('fonts/OpenSans-Regular-webfont.eot');
