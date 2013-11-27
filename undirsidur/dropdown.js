@@ -28,4 +28,19 @@ $(document).ready(function() {
 			$('#moreJava').html(home);
 	});
 	});
+
+	$('#php').click(function() 
+	{
+		$('#morePhp').toggle(function() 
+		{
+			var home = '<div class="drop">';
+
+			home += '<p>Php fyrir byrjendur</p>';		
+			home += '<p><iframe width="560" height="315" src="//www.youtube.com/embed/kY5P9sZqFas" frameborder="0" allowfullscreen></iframe></p>';		
+			     
+			home += '</div>';
+											
+			$('#morePhp').html(home);
+	});
+	});
 });
