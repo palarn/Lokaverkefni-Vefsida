@@ -1,5 +1,3 @@
-<!--gerðu afrit af þessari síðu og breyttu þeirri síðu svo.-->	
-
 <!DOCTYPE html>
 <html lang="is">
 
@@ -42,14 +40,14 @@
 	
 	<div class="error" id="error1">
 		<ul>
-			<p id="e"></p>
-			<p id="e1"></p>
+			<p><div id="e"></div></p>
+			<p><div id="e1"></div></p>
 		</ul>	
 	</div>
 
-	<form action="" id="samband">
-		<p>Tölvupóstfang <input type="text" id="net" placeholder="" ></p>
-		<p>Símanúmer <input type="text" id="numer" placeholder="" ></p>
+	<form id="samband">
+		<p>Tölvupóstfang <input type="text" id="net" placeholder="jon@eitthvad.is" ></p>
+		<p>Símanúmer <input type="text" id="numer" placeholder="5551234" ></p>
 		<p>Skrá <input type="file" name="skra" id="nr_skra" class="upload" ></p>
 		<p>Settu inn texta.<br><textarea rows="4" cols="50"></textarea></p>
 		<button type="button" form="samband" onClick="validateForm();">Senda</button>

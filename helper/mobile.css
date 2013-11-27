@@ -1,6 +1,3 @@
-
-
- 
 body{
 	display:block;
 	margin-left:auto;
@@ -9,7 +6,7 @@ body{
 	min-width: 420px;
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
-}
+	}
 
 @font-face {
     font-family: 'Open Sans';
@@ -18,27 +15,20 @@ body{
     font-weight: normal;
     font-weight: 400;
     font-style: normal;
-}
-
-div.main{
-		display:border-box;
-
-}
+	}
 
 .main-slider{
 	float:left;
 	margin-left: 30px;
 	margin-top: 30px;
-
-}
+	}
 
 nav{
 	display: block;
 	margin-left: auto;
 	margin-right:auto;
 	margin-bottom: 1.8em;
-	
-}
+	}
 ul{
 	list-style:none;
 	padding-left:3px;
@@ -47,33 +37,19 @@ ul{
 
 article{
 box-sizing:border-box;
-
-
-}
+	}
 
 h1{
 font-family: Georgia;
-}
-
-
-
-
+	}
 
 img.logo{
 margin-bottom:30px;
-
-}
-
-
-#top{
-	
-	
-}
+	}
 
 .lk{
 	margin-right:10px;
 	display:inline;
-	
 	}
 
 #altmynd{
@@ -82,8 +58,8 @@ margin-bottom:30px;
 	background-repeat: no-repeat;
 	height:18.75em;
 	position: relative;
+	}
 	
-}
 div.inpic{
 	display:block;
 	background-color:#ffffff;
@@ -122,22 +98,20 @@ div.inpic{
 .bottom{
 	margin-top:3em;
 	box-sizing:border-box;
-	
-}
+	}
 
 #b1{
 	margin-bottom:1em;
 	}
 
-
 a:link{
 	color: #333;
 	text-decoration:none;
-}
+	}
 
 a.bt:link{
 	text-decoration: underline;
-}
+	}
 	
 a:visited{
 	color: navy;
@@ -154,31 +128,26 @@ a.lk:hover{
 	/* fallback */ background-color: #035ff8;  background-repeat: repeat-x; 
 	/* Safari 5.1, Chrome 10+ */ background: -webkit-linear-gradient(top, #eeeeee, #035ff8); 
 	/* Firefox 3.6+ */ background: -moz-linear-gradient(top, #eeeeee, #035ff8); 
-		 }
+	}
 
 a.bt:hover{
 	text-decoration:underline;
 	}
 	
 .midjar{
-	
 	float:right;
 	margin:30px;
 	}	
 
-	
 /*undirsíður*/
 
 .frettamynd{
-
-	float:right;	
-	
+	float:right;		
 	}
 	
 .error{
 	color:red;
 	}
-		
 	
 .frett{
  	font-family: 'Open Sans';
@@ -186,12 +155,10 @@ a.bt:hover{
     /* src fallbacks ommitted for brevity */
  	line-height: 25px;
  	font-size: 12pt;
-
-}
+	}
 
 .leikja_pic{
 	width:150px;
 	height: 120px;
-}
-	
+	}
 	
