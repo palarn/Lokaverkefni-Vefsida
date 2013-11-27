@@ -49,61 +49,61 @@
 			<p> ForritunarFréttir | 25.11.2013 | 11:52 </p>
 			<h1>Hugbúnaðarráðstefnan 2013</h1>
 
-			<img src="../myndir/frett1.jpg" alt="Frétt1" align="left"><p>Hugbúnaðarráðstefna Ský </br></br>
-					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30 </br>
+			<img src="../myndir/frett1.jpg" alt="Frétt1"><p>Hugbúnaðarráðstefna Ský <br><br>
+					miðvikudaginn 20. nóvember á Grand hóteli kl. 13 - 16:30 <br>
 
 					<h2>"Straumar og stefnur í forritun" </h2>
 
-					Twitter: @SkyIceland #HugbRadst </br>
+					Twitter: @SkyIceland #HugbRadst <br>
 
 
-					Margt áhugavert er í gangi í heimi hugbúnaðargerðar og höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu</br>
-					áherslum: <b>„Development – Social – Software Ecosystem – Big Data“</b></br>
+					Margt áhugavert er í gangi í heimi hugbúnaðargerðar og höfum við fengið nokkra af helstu sérfræðingum okkar til segja frá helstu<br>
+					áherslum: <b>„Development – Social – Software Ecosystem – Big Data“</b><br>
 
-					Taktu daginn strax frá og skráðu þig sem fyrst. Færð ekki betra tækifæri í bráð til að sjá og hitta vini þína í hugbúnaðargeiranum. </br></br>
+					Taktu daginn strax frá og skráðu þig sem fyrst. Færð ekki betra tækifæri í bráð til að sjá og hitta vini þína í hugbúnaðargeiranum. <br><br>
 
-					<h3>Dagskrá:</h3></br>
+					<h3>Dagskrá:</h3><br>
 
-					13:00-13:20  Frá harðvíruðu yfir í atburðadrifið (SOA2) - féll því miður niður vegna veikinda </br>
-					                            Axel Valdemar Gunnlaugsson, 365</br></br>
+					13:00-13:20  Frá harðvíruðu yfir í atburðadrifið (SOA2) - féll því miður niður vegna veikinda <br>
+					                            Axel Valdemar Gunnlaugsson, 365<br><br>
 
-					13:20-13:40  Samvinna nemenda á netinu (Peer promotions)</br>
-					                            Björn Leví Gunnarsson, Brandeis University USA</br></br>
+					13:20-13:40  Samvinna nemenda á netinu (Peer promotions)<br>
+					                            Björn Leví Gunnarsson, Brandeis University USA<br><br>
 
 					13:40-14:00  Force.com og Platform-as-a-Service forritun</br>
-					                             Ragnar Fjölnisson, Kaptio</br></br>
+					                             Ragnar Fjölnisson, Kaptio<br><br>
 
-					14:00-14:20  Þjónustumiðuð kerfishögun með Node.js</br>
-					                             Eiríkur Nilson, OZ</br></br>
+					14:00-14:20  Þjónustumiðuð kerfishögun með Node.js<br>
+					                             Eiríkur Nilson, OZ<br><br>
 
-					14:20-14:40  Kaffihlé - tengslanetið eflt</br></br>
+					14:20-14:40  Kaffihlé - tengslanetið eflt<br><br>
 
-					14:40-15:00  Greining gagna á flugi (Activity Stream)</br>
-					                            Stefán Baxter, Flaumur</br></br>
+					14:40-15:00  Greining gagna á flugi (Activity Stream)<br>
+					                            Stefán Baxter, Flaumur<br><br>
 
-					15:00-15:20  Kóðað í beinni (Play! 2.2)</br>
-					                             Reynir Hubner, Hugsmiðjan</br></br>
+					15:00-15:20  Kóðað í beinni (Play! 2.2)<br>
+					                             Reynir Hubner, Hugsmiðjan<br><br>
 
-					15:20-15:30   Örstutt pása - teygja úr sér og bæta á kaffibollann</br></br>
+					15:20-15:30   Örstutt pása - teygja úr sér og bæta á kaffibollann<br><br>
 
-					15:30-15:50   Nýjar auðkenningarleiðir (RSA AA)</br>
-					                            Peter Short, Landsbankinn</br></br>
+					15:30-15:50   Nýjar auðkenningarleiðir (RSA AA)<br>
+					                            Peter Short, Landsbankinn<br><br>
 
-					15:50-16:10   Frumgerðir með Meteor</br>
-					                            Bjarni Ingimar Júlíusson, GreenQloud </br></br>      
+					15:50-16:10   Frumgerðir með Meteor<br>
+					                            Bjarni Ingimar Júlíusson, GreenQloud <br><br>      
 
-					16:10-16:30   Gagnasöfnun - reynslusaga</br>
-					                            Páll Hilmarsson, Datamarket</br></br>
+					16:10-16:30   Gagnasöfnun - reynslusaga<br>
+					                            Páll Hilmarsson, Datamarket<br><br>
 
-					16:30               Ráðstefnuslit</br></br>
+					16:30               Ráðstefnuslit<br><br>
 
-					<b>Fundarstjóri:</b>  Sigurður E. Guttormsson, Trackwell</br></br>
+					<b>Fundarstjóri:</b>  Sigurður E. Guttormsson, Trackwell<br><br>
 
-					<b>Undirbúningsnefnd:</b> Stjórn faghóps Ský um hugbúnaðargerð</br></br>
+					<b>Undirbúningsnefnd:</b> Stjórn faghóps Ský um hugbúnaðargerð<br><br>
 
-					Verð fyrir <b>félagsmenn</b> Ský: 9.500 kr.</br>
-					Verð fyrir <b>utanfélagsmenn</b>: 14.500 kr.</br>
-					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.</br> </p>
+					Verð fyrir <b>félagsmenn</b> Ský: 9.500 kr.<br>
+					Verð fyrir <b>utanfélagsmenn</b>: 14.500 kr.<br>
+					Verð fyrir aðila <b>utan vinnumarkaðar</b>: 4.000 kr.<br> </p>
 
 
 		
