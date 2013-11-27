@@ -44,14 +44,23 @@
 	
 <div id="main">
 		<article class="frett">
-			<h1>Mark Zuckerberg, stofnandi facebook, um forritunar kennslu</h1>
+			
+		
 
-			<p><iframe width="560" height="315" src="//www.youtube.com/embed/dmM_xDzy2nU" frameborder="0" allowfullscreen></iframe></p>
-		</article>
-		<article class="frett">
-			<h1>Kennslumyndbönd frá "thenewboston" sem er snillingur, hér er java kennslumyndbönd</h1>
+        <h1>Kennslumyndbönd!</h1>
 
-			<p><iframe width="560" height="315" src="//www.youtube.com/embed/Hl-zzrqQoSE?list=PL17E300C92CE0261A" frameborder="0" allowfullscreen></iframe></p>
+		<div id="text">
+			 <a href="" onclick="return false"><h3>Ýmislegt</h3></a>
+    	</div>
+   		<div id="moreText" style="display:none"></div>
+   		
+   		<div id="java">
+   			<a href="" onclick="return false"><h3>Java</h3></a>
+   		</div>
+   		<div id="moreJava" style="display:none"></div>
+
+
+
 		</article>
 	</div>
 
@@ -91,6 +100,8 @@
 
 	<footer>© Páll, Helga Lóa & Garðar 1977 - 2013</footer>
 </section>
+
+    <script src="dropdown.js"></script>  
 
 </body>
 
