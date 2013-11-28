@@ -71,13 +71,9 @@
 	</section>	
 </div>
 
-<h2>Komments</h2>
-
-    <div id="Comments"></div>
-
-    <h2>Skildu eftir komment</h2>
-
-    <div id="CommentForm"></div>
+<?php
+include 'komment_kerfi.php';
+?>
 		
 
 <section class="bottom">
