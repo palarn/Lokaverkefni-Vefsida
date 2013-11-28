@@ -115,8 +115,8 @@
 	.bottom{ 
 	background-size: cover;
 	/* fallback */ background-color: #035ff8;  background-repeat: repeat-x; 
-	/* Safari 5.1, Chrome 10+ */ background: -webkit-linear-gradient(top, #eeeeee, #035ff8); 
-	/* Firefox 3.6+ */ background: -moz-linear-gradient(top, #eeeeee, #035ff8); 
+	/* Safari 5.1, Chrome 10+ */ background: -webkit-linear-gradient(top, #ffffff, #035ff8); 
+	/* Firefox 3.6+ */ background: -moz-linear-gradient(top, #ffffff, #035ff8); 
 	height:13.625em;
 	
 	}
